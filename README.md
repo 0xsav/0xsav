@@ -1,6 +1,6 @@
 <h1 align="center">Software Test Engineer & Node Operator & Translator</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xsav&label=Profile%20views&color=b60e21&style=flat" alt="0xsav" /> </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect</h3>
 <p align="center">
 <a href="https://twitter.com/0xsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsav" height="30" width="40" /></a>
 </p>
